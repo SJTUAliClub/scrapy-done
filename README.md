@@ -7,7 +7,7 @@
  
  
   
-环境：python  scrapy   配置环境的方法自行百度
+环境：python  scrapy   配置环境的方法自行百度，
 scrapy有官方文档，很贴心的是竟然有中文版，与scrapy相关的东西上面介绍的相当详细
  
  
