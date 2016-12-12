@@ -1,4 +1,4 @@
-# spider
+# scrapy-done
 这是一个最简单傻瓜的spider，用来爬取豆瓣电影top250的信息，并没有用到数据库
  
  
